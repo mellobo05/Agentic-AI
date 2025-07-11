@@ -1,2 +1,1 @@
-# Mel-project
-Demo repo
+Agentic AI
