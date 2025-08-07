@@ -9,7 +9,8 @@ Serper: Web search capabilities for news research
 Here's how to set up API keys for the Agentic AI project:
 
 1. Get Gemini API Key:
-Visit [Google AI Studio](https://makersuite.google.com/app/apikey) (Gemini's developer platform)
+Visit (https://ai.google.dev/gemini-api/docs/api-key
+) (Gemini's developer platform)
 Sign in with Google account
 Create API key in the dashboard
 Free tier available with usage limits
